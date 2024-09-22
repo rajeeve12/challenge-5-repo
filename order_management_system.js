@@ -11,5 +11,9 @@ const inventory = [{name: `Burger`, price: 15, quantity: 10,},
     const order = product.quantity <= product.price ? "success":"Fail";
     return `${product.name} is ${success}` 
 }
-
+//Task 4
+function calculateOrderTotal(product){
+    for(let i = 0, i < inventory.length, i++) 
+        return `${product.price}`
+}
   
