@@ -16,4 +16,11 @@ function calculateOrderTotal(product){
     for(let i = 0, i < inventory.length, i++) 
         return `${product.price}`
 }
-  
+ //Task 5 
+ function completeOrder(product){
+    if (order===success) {
+        console.log('Order for (name) is complete')
+    } else {
+        console.log('Order for (name) is incomplete')
+    }
+}
