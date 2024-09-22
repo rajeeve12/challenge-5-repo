@@ -24,3 +24,8 @@ function calculateOrderTotal(product){
         console.log('Order for (name) is incomplete')
     }
 }
+//Task 6
+function checkPendingOrders(product){
+   for(let i = 0, i < orders.length, i++) 
+        return `${product.name}`
+}
