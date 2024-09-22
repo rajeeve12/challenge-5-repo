@@ -4,4 +4,8 @@ const inventory = [{name: `Burger`, price: 15, quantity: 10,},
     { name: 'Soda', price: 5, quantity: 7,},
     { name: 'Fries', price: 6, quantity: 15,},
      ]
+  //Task 2
+  let orders = []; 
+  //Task 3
+  
   
