@@ -7,5 +7,9 @@ const inventory = [{name: `Burger`, price: 15, quantity: 10,},
   //Task 2
   let orders = []; 
   //Task 3
-  
+  function placeOrder(product){
+    const order = product.quantity <= product.price ? "success":"Fail";
+    return `${product.name} is ${success}` 
+}
+
   
